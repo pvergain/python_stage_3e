@@ -1,0 +1,13 @@
+
+.. index::
+   pair: Actions ; 14 octobre 2016
+   pair: Django ; Tutorial
+   
+
+.. _14_octobre_2016:
+
+=======================================================
+Actions du 13 octobre 2016 : suivre le tutorial Django
+=======================================================
+
+
