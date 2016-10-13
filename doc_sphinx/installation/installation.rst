@@ -18,6 +18,7 @@ Installation de l'environnement de programmation Python 3.5, Anaconda, Gimp, Sph
    modules_python/modules_python
    gimp/gimp
    stextbar/stextbar
+   pycharm/pycharm
 
 
    

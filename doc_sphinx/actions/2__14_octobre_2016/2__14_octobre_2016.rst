@@ -2,12 +2,42 @@
 .. index::
    pair: Actions ; 14 octobre 2016
    pair: Django ; Tutorial
+   pair: pip ; freeze
    
 
 .. _14_octobre_2016:
 
-=======================================================
-Actions du 13 octobre 2016 : suivre le tutorial Django
-=======================================================
+===============================================================
+Actions du vendredi 14 octobre 2016 : suivre le tutorial Django
+===============================================================
 
+.. contents::
+   :depth: 3
+
+
+
+Installer pycharm
+===================
+
+.. TODO:: à faire
+
+
+Installer git
+=============
+
+.. TODO:: à faire
+
+
+Sauvegarde des modules utilisés
+================================
+
+.. TODO:: à faire
+
+
+Sauvegarder les modules dans requirements.txt
+
+::
+
+    pip freeze > requirements.txt
+    
 
