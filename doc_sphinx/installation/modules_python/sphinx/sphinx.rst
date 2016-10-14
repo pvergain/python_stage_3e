@@ -2,6 +2,8 @@
 .. index::
    pair: Sphinx ; Python
    pair: Documentation ; GIMP
+   pair: Eric Holscher; Documentation
+   ! Eric Holscher
    
 
 .. _installation_sphinx:
@@ -40,7 +42,41 @@ Installation
     pip install sphinx
     
     
-    
+
+Read the docs
+=============
+
+.. seealso::
+
+   - https://readthedocs.org/
+   - https://twitter.com/readthedocs
+   
+   
+.. figure:: read_the_docs.png   
+   :align: center
+   
+   
+Read the Docs hosts documentation, making it fully searchable and easy to find. 
+You can import your docs using any major version control system, including 
+Mercurial, Git, Subversion, and Bazaar. We support webhooks so your docs get 
+built when you commit code. There's also support for versioning so you can 
+build docs from tags and branches of your code in your repository.
+
+Hosting documentation is free and simple, read our guide to get started! 
+
+
+Eric Holscher
+-------------   
+
+.. seealso::
+
+   - https://twitter.com/ericholscher
+   
+.. figure:: eric_holscher.png
+   :align: center
+   
+   
+   
 
 
 

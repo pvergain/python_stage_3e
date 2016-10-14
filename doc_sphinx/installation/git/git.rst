@@ -94,6 +94,10 @@ git commit . -m "commentaires"
     
 Annuler des modifications
 -------------------------
+
+.. seealso::
+
+   - https://www.atlassian.com/git/tutorials/undoing-changes/        
         
 ::
         

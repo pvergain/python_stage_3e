@@ -67,7 +67,14 @@ Liste des modules à 'freezer' dans requirements.txt
     pip freeze > requirements.txt
     
     
+Réinstaller les mêmes modules
+==============================
+
+::
+
+    pip install -r requirements.txt
     
+           
     
 
 

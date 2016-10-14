@@ -6,13 +6,14 @@
 
 .. _stage_python:
 
-=========================================
-Stage d'initiation à Python 3e 2016-2017
-=========================================
+========================================================================
+Stage d'initiation à l'environnement Python scientifique (3e 2016-2017)
+========================================================================
 
 .. seealso::
 
    - https://www.python.org/
+   - https://twitter.com/gvanrossum
    - https://twitter.com/PythonWeekly
 
 .. sidebar:: Présentation Python

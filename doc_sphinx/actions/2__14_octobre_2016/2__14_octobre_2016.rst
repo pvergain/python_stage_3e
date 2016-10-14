@@ -24,23 +24,22 @@ Actions du vendredi après-midi 14 octobre 2016 : suivre le tutorial Django
    :align: center
    
 
-Installer pycharm
-===================
-
-Fait.
-
-.. warning:: On laisse tomber car trop lourd pour gérer tous les modules 
-   d'anaconda.
-
-
 Installer git
 =============
 
+.. seealso::
+
+   - :ref:`installation_git`
+   
 .. TODO:: à faire
 
 
 Sauvegarde des modules utilisés
 ================================
+
+.. seealso::
+
+   - :ref:`env_virt`
 
 .. TODO:: à faire
 
@@ -50,16 +49,22 @@ Sauvegarder les modules dans requirements.txt
 ::
 
     pip freeze > requirements.txt
-    
-
-Comment utiliser pycharm dans un environnement virtuel Python
-==============================================================
 
 
+Faire la documentation de ce qui a été vu avec sphinx
+======================================================
+
+.. seealso::
+
+   - :ref:`env_sphinx35`
 
 
-Tutorial 1 de django
-=====================
+Un projet quel qu'il soit doit être accompagné d'une documentation.
+
+
+
+Tutorial 1 de django : pas le temps ? 
+=======================================
 
 .. seealso::
 
