@@ -20,6 +20,9 @@ Actions du vendredi 14 octobre 2016 : suivre le tutorial Django
    :depth: 3
 
 
+.. figure:: ../../installation/modules_python/django/django.png
+   :align: center
+   
 
 Installer pycharm
 ===================
@@ -45,6 +48,17 @@ Sauvegarder les modules dans requirements.txt
 
     pip freeze > requirements.txt
     
+
+
+Tutorial 1 de django
+=====================
+
+.. seealso::
+
+   - https://docs.djangoproject.com/fr/1.10/intro/tutorial01/
+
+
+
 
 
 

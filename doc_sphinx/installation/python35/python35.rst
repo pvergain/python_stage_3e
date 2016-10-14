@@ -24,12 +24,18 @@ Installation de Python 3.5 avec Anaconda
    
 Installation de `Python 3.5 64 bits` avec anaconda
 ===================================================    
+
+.. seealso::
+
+   - https://www.continuum.io/downloads
+   - https://docs.python.org/3/
+      
    
 .. figure:: anaconda.png
    :align: center
    
 
-Installation de `Python 3.5 64 bits`_ avec anaconda_.
+Installation de `Python 3.5 64 bits`_ (https://docs.python.org/3/) avec anaconda_ (https://www.continuum.io/downloads)
    
   
 .. _anaconda: https://www.continuum.io/downloads
@@ -40,10 +46,14 @@ Installation de `Python 3.5 64 bits`_ avec anaconda_.
 Après installation
 ===================
 
+L'interpréteur Python (python.exe) est sous le répertoire :file:`c:\anaconda3`
 
 .. figure:: tree_anaconda.png
    :align: center
-   
+ 
+
+Un menu apparait dans les programmes disponibles
+--------------------------------------------------  
 
 .. figure:: apres_install_anaconda.png
    :align: center

@@ -17,14 +17,16 @@ Stage Python 3e 2016-2017
     :Release: |release|
     :Date: |today|
     :Authors: ** ... , **
-    
+  
+  
+.. figure::  installation/python35/Python_logo_and_wordmark.svg.png 
+   :align: center  
     
 Introduction
 =============
 
-Stage effectué le jeudi 13 octobre 2016 pour une présentation du langage Python
-par Nawel ? et Sofia ?
-
+Stage effectué par Nawel ? et Sofia ? les 13 et 14 octobre 2016 pour une 
+initiation au langage Python
 
 Installation de Python et autres outils
 =======================================
