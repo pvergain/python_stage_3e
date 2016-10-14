@@ -33,6 +33,11 @@ Pour faire la documentation des projets Python, C, C++.
 Pratiquement tous les projets Python utilisent sphinx pour leur documentation, 
 à commencer par Python lui-même (https://docs.python.org/3/)
 
+Autres
+------
+
+- http://docs.sympy.org/latest/index.html
+
 
 Installation 
 ============

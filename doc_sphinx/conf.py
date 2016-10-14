@@ -57,7 +57,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Stage Python 3e 2016-2017'
+project = 'Stage Python scientifique 3e 2016-2017'
 copyright = '2016, Patrick'
 author = 'Patrick'
 

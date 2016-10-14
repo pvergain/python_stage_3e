@@ -42,4 +42,4 @@ Les programmes
 .. toctree::
    :maxdepth: 3
    
-   nombres_x_y/nombres_x_y
+   exos/exos

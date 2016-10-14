@@ -12,9 +12,7 @@ matplotlib (python 2D plotting library)
 
 .. seealso::
 
-   - http://www.sympy.org/en/index.html
-   - https://twitter.com/SymPy
-   - http://nbviewer.jupyter.org/url/www.inp.nsk.su/%7Egrozin/python/sympy.ipynb
+   - http://matplotlib.org/index.html
    
 
 .. figure:: matplotlib.png

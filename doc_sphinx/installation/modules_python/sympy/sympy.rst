@@ -24,6 +24,11 @@ sympy (Computer algebra system in Python)
 Description
 ===========
 
+.. seealso::
+
+   - http://docs.sympy.org/latest/install.html#anaconda
+   
+
 ``sympy`` est l'un des nombreux modules Python installés avec anaconda3.
 
 SymPy is a Python library for symbolic mathematics. It aims to become a 

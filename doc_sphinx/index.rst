@@ -7,7 +7,7 @@
 .. _stage_python:
 
 ========================================================================
-Stage d'initiation à l'environnement Python scientifique (3e 2016-2017)
+Stage Python scientifique (3e 2016-2017)
 ========================================================================
 
 .. seealso::
