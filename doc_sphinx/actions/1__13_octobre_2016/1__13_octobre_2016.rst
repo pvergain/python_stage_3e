@@ -5,9 +5,9 @@
 
 .. _13_octobre_2016:
 
-=====================================================
-Actions du 13 octobre 2016 : introduction à Python 3
-=====================================================
+=========================================================================================================================================
+Actions du 13 jeudi après-midi 13 octobre 2016 : installation de l'environnement scientifique Python 3 et écriture de 2 programmes Python
+=========================================================================================================================================
 
 .. contents::
    :depth: 3
@@ -20,6 +20,7 @@ Installation des prérequis
 - installation de :ref:`gimp <installation_gimp>`
 - écriture de :ref:`quelques programmes tirés de "Python pour les maths" <programmes_python>`
 - installation du :ref:`module Python virtualenv <installation_virtualenv>`
+- installation du :ref:`module Python sphinx <installation_virtualenv>`
 
 
 .. _dev_web_django:

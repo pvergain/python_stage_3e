@@ -68,4 +68,15 @@ Avec Jupyter notebook
    :align: center
    
    
+Avec Spyder
+=====================
+
+.. seealso::
+
+   - :ref:`spyder`
+   
+
+.. figure:: avec_spyder.png
+   :align: center   
+   
    

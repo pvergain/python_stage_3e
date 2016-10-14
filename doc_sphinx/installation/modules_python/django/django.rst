@@ -57,9 +57,11 @@ Installation
     pip install django
     
     
-
-Arborescence du framework Python installé
+Arborescence du framework Django installé
 ==========================================
+
+Comme tous les modules Python, le framework django se trouve sous le répertoire :file:`Lib/site_packages`
+de l'environnement virtuel **appli_django**.
 
 .. figure:: tree_django.png
    :align: center

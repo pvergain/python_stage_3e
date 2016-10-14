@@ -91,5 +91,16 @@ git commit . -m "commentaires"
 
     git commit . -m "maj doc"
     
+    
+Annuler des modifications
+-------------------------
+        
+::
+        
+    git checkout pip.rst
+    
+    
+    
+
         
 

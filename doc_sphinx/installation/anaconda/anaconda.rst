@@ -1,6 +1,8 @@
 
 .. index::
    pair: Anaconda ; Python
+   pair: Python ;  Scientifique
+   ! Environnement scientifique
    ! Anaconda
    
 

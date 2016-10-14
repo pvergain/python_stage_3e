@@ -52,6 +52,16 @@ Actions
   
    actions/actions
 
+
+Environnements de développement Python
+=======================================
+
+.. toctree::
+   :maxdepth: 5
+   
+   dev/dev
+
+
 Installation de Python et autres outils
 =======================================
 
@@ -59,6 +69,7 @@ Installation de Python et autres outils
    :maxdepth: 5
    
    installation/installation
+
 
 Glossaire
 =========
