@@ -1,6 +1,7 @@
 
 .. index::
    pair: Django ; Python
+   pair: Django ; Girls
  
 
 .. _installation_django:
@@ -19,6 +20,34 @@ Au préalable
 ============
 
 Se placer dans :ref:`l'environnement virtuel voulu <dev_web_django>`.   
+
+
+
+Django girls
+============
+
+.. seealso:: 
+
+   - https://twitter.com/djangogirls
+   - https://djangogirls.org/
+   
+
+.. figure:: django_girls.png
+   :align: center
+   
+Django Girls is a non-profit organization and a community that empowers and 
+helps women to organize free, one-day programming workshops by providing tools, 
+resources and support. 
+
+We are a volunteer run organization with hundreds of people contributing to 
+bring more amazing women into the world of technology. 
+
+We are making technology more approachable by creating resources designed 
+with empathy.
+
+During each of our events, 30-60 women build their first web application 
+using HTML, CSS, Python and Django.  
+ 
 
 Installation 
 =============
