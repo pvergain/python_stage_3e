@@ -12,12 +12,28 @@ Installation de Git
 .. seealso:: 
 
    - https://git-scm.com/
+   - https://en.wikipedia.org/wiki/Git
 
+
+.. figure:: git.png
+   :align: center
+   
 
 .. contents::
    :depth: 3
    
    
+Description
+============
+
+``git`` est un logiciel de gestion de versions décentralisé. 
+
+C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et 
+distribué selon les  termes de la licence publique générale GNU version 2. 
+
+En 2016, il s’agit du logiciel de gestion de versions le plus populaire qui 
+est utilisé par plus de douze millions de personnes.
+
 
 Commandes Git
 ==============

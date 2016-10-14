@@ -19,7 +19,6 @@ Stage Python 3e 2016-2017
     :Authors: ** ... , **
     
     - :ref:`genindex`
-    - :ref:`modindex`
     - :ref:`search`  
     
       

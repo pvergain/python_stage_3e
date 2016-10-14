@@ -30,6 +30,9 @@ Programme Python
 Avec IPython (CLI, Command Line Interface)
 ===================================================
 
+.. seealso::
+
+   - :ref:`ipython`
 
 ::
 
@@ -55,6 +58,11 @@ Avec IPython (CLI, Command Line Interface)
 
 Avec Jupyter notebook
 =====================
+
+.. seealso::
+
+   - :ref:`jupyter_notebook`
+   
 
 .. figure:: avec_jupyter_notebook.png
    :align: center
