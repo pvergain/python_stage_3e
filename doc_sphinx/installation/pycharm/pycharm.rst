@@ -11,6 +11,7 @@ Installation de pycharm
 .. seealso::
 
    - https://www.jetbrains.com/help/pycharm/2016.2/django.html
+   - https://confluence.jetbrains.com/display/PYH/Using+IPython+Notebook+with+PyCharm
    - https://fr.wikipedia.org/wiki/PyCharm
    
 

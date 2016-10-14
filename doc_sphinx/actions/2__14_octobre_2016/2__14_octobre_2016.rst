@@ -11,6 +11,11 @@
 Actions du vendredi 14 octobre 2016 : suivre le tutorial Django
 ===============================================================
 
+.. seealso::
+
+   - https://docs.djangoproject.com/fr/1.10/intro/tutorial01/
+   - https://docs.djangoproject.com/fr/1.10/intro/tutorial02/
+
 .. contents::
    :depth: 3
 
@@ -40,4 +45,6 @@ Sauvegarder les modules dans requirements.txt
 
     pip freeze > requirements.txt
     
+
+
 
