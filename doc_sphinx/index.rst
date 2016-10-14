@@ -29,11 +29,11 @@ Stage effectué par Nawel ? et Sofia ? les 13 et 14 octobre 2016 pour une
 initiation au langage Python
 
 
-Programmes python
+Programmes Python
 =================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 6
   
    programmes/programmes
 

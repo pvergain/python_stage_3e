@@ -57,6 +57,7 @@ IDEs disponibles
    
    spyder/spyder
    ipython/ipython
+   jupyter_notebook/jupyter_notebook
    
    
 

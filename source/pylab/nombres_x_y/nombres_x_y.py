@@ -10,6 +10,7 @@ Voir le module click pour l'utilisation en ligne de commandes.
 
 from pylab import plot, show
 from sympy import Symbol
+from sympy import factor
 
 def afficher_courbe_nombres():
     """Affichage d'une courbe
@@ -33,3 +34,4 @@ def exemple_factoriser():
 
 if __name__ == '__main__':
     exemple_factoriser()
+    afficher_courbe_nombres()

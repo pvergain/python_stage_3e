@@ -13,9 +13,8 @@ Exercice nombres_x/y
    :depth: 3
 
 
-
-Prérequis
-==========
+Prérequis : utiliser les IDEs Anaconda3
+=========================================
 
 .. seealso:: :ref:`prerequis_anaconda3`
 
@@ -28,7 +27,7 @@ Programme Python
    :linenos:
 
 
-En ligne de commande (CLI, Command Line Interface)
+Avec IPython (CLI, Command Line Interface)
 ===================================================
 
 
@@ -49,3 +48,16 @@ En ligne de commande (CLI, Command Line Interface)
 
     In [6]: show()
 
+.. figure:: avec_ipython.png
+   :align: center
+   
+   
+
+Avec Jupyter notebook
+=====================
+
+.. figure:: avec_jupyter_notebook.png
+   :align: center
+   
+   
+   
