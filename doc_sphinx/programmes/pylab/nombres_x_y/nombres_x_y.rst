@@ -13,6 +13,13 @@ Exercice nombres_x/y
    :depth: 3
 
 
+
+Prérequis
+==========
+
+.. seealso:: :ref:`prerequis_anaconda3`
+
+
 Programme Python
 =================
 

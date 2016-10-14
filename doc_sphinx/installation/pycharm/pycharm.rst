@@ -5,7 +5,7 @@
 .. _installation_pycharm:
 
 ========================================================
-Installation de pycharm
+Installation de l'IDE PyCharm
 ========================================================
 
 .. seealso::
@@ -35,5 +35,13 @@ et fonctionne sous Windows, Mac OS X et Linux.
 Il est décliné en édition professionnelle, réalisé sous licence propriétaire 
 et en édition communautaire réalisé sous licence Apache.   
    
+
+.. note:: on peut l'utiliser avec Django
+
+.. warning:: Pour anaconda, il existe d'autres IDEs plus adaptés.
+   .. seealso:: :ref:`spyder`
+
+
+
 
 

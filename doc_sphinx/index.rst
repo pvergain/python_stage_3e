@@ -28,13 +28,6 @@ Introduction
 Stage effectué par Nawel ? et Sofia ? les 13 et 14 octobre 2016 pour une 
 initiation au langage Python
 
-Installation de Python et autres outils
-=======================================
-
-.. toctree::
-   :maxdepth: 5
-   
-   installation/installation
 
 Programmes python
 =================
@@ -51,6 +44,14 @@ Actions
    :maxdepth: 4
   
    actions/actions
+
+Installation de Python et autres outils
+=======================================
+
+.. toctree::
+   :maxdepth: 5
+   
+   installation/installation
 
 
 Indices and tables

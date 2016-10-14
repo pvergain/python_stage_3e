@@ -27,7 +27,10 @@ Actions du vendredi 14 octobre 2016 : suivre le tutorial Django
 Installer pycharm
 ===================
 
-.. TODO:: à faire
+Fait.
+
+.. warning:: On laisse tomber car trop lourd pour gérer tous les modules 
+   d'anaconda.
 
 
 Installer git
@@ -48,6 +51,11 @@ Sauvegarder les modules dans requirements.txt
 
     pip freeze > requirements.txt
     
+
+Comment utiliser pycharm dans un environnement virtuel Python
+==============================================================
+
+
 
 
 Tutorial 1 de django

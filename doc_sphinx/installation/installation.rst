@@ -14,8 +14,10 @@ Installation de l'environnement de programmation Python 3.5, Anaconda, Gimp, Sph
 .. toctree::
    :maxdepth: 2
    
-   python35/python35
+   anaconda/anaconda
+   python35/python35   
    modules_python/modules_python
+   git/git
    gimp/gimp
    stextbar/stextbar
    pycharm/pycharm
