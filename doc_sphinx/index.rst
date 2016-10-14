@@ -17,8 +17,12 @@ Stage Python 3e 2016-2017
     :Release: |release|
     :Date: |today|
     :Authors: ** ... , **
-  
-  
+    
+    - :ref:`genindex`
+    - :ref:`modindex`
+    - :ref:`search`  
+    
+      
 .. figure::  installation/python35/Python_logo_and_wordmark.svg.png 
    :align: center  
     
@@ -53,11 +57,15 @@ Installation de Python et autres outils
    
    installation/installation
 
+Glossaire
+=========
 
-Indices and tables
-==================
+.. toctree::
+   :maxdepth: 5
+   
+   glossaire/glossaire
+   
+   
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
 

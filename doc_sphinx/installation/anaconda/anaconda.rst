@@ -52,6 +52,11 @@ Un menu apparait dans les programmes disponibles
 IDEs disponibles
 =================
 
+.. seealso::
+
+   - https://fr.wikipedia.org/wiki/Environnement_de_d%C3%A9veloppement
+   
+
 .. toctree::
    :maxdepth: 3
    
