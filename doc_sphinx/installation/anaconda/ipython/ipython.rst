@@ -15,6 +15,7 @@ IPython
 .. seealso::
 
    - http://ipython.readthedocs.io/en/stable/index.html
+   - https://fr.wikipedia.org/wiki/IPython
    
 
 .. figure:: ipython.png

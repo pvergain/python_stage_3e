@@ -71,6 +71,14 @@ Tutorial 1 de django : pas le temps ?
    - https://docs.djangoproject.com/fr/1.10/intro/tutorial01/
 
 
+Conclusion
+===========
+
+Par manque de temps, la partie développement d'application Web avec Django
+n'a pas pu être abordée.
+
+Seule la partie 'Python scientifique' a été abordé.
+
 
 
 

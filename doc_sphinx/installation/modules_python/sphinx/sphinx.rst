@@ -41,6 +41,16 @@ Installation
 
     pip install sphinx
     
+  
+
+Le format ReST
+==============
+
+.. toctree::
+   :maxdepth: 3
+   
+   rest/rest  
+
     
 
 Read the docs

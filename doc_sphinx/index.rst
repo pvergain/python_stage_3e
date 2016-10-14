@@ -14,9 +14,15 @@ Stage d'initiation à l'environnement Python scientifique (3e 2016-2017)
 
    - https://www.python.org/
    - https://twitter.com/gvanrossum
+   - https://docs.python.org/3/
    - https://twitter.com/PythonWeekly
 
-.. sidebar:: Présentation Python
+
+.. figure:: scientific_python.png
+   :align: center
+   
+
+.. sidebar:: Python scientifique
 
     :Projet: Stage 3e id3 Technologies
     :Release: |release|
@@ -24,7 +30,11 @@ Stage d'initiation à l'environnement Python scientifique (3e 2016-2017)
     :Authors: ** ... , **
     
     - :ref:`genindex`
-    - :ref:`search`  
+    - :ref:`search` 
+    
+    - https://docs.python.org/3/
+    - https://www.continuum.io 
+    - https://twitter.com/SciPyTip
     
       
 .. figure::  installation/python35/Python_logo_and_wordmark.svg.png 

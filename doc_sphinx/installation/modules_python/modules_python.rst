@@ -15,5 +15,6 @@ Installation de modules Python
    
    pip/pip
    sphinx/sphinx
+   sympy/sympy
    virtualenv/virtualenv
    django/django
