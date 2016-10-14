@@ -17,11 +17,6 @@ Stage d'initiation à l'environnement Python scientifique (3e 2016-2017)
    - https://docs.python.org/3/
    - https://twitter.com/PythonWeekly
 
-
-.. figure:: scientific_python.png
-   :align: center
-   
-
 .. sidebar:: Python scientifique
 
     :Projet: Stage 3e id3 Technologies
