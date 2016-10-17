@@ -37,23 +37,22 @@ Programmes (modules, scripts) Python
     |       hello.py
     |
     +---pylab
-    |   \---exos
-    |           exos.ipynb
-    |           exo_factor.py
-    |           exo_plot.py
+    |     exos.ipynb
+    |     exo_factor.py
+    |     exo_plot.py
 
 
-Le module Python source/pylab/exos/exo_factor.py
+Le module Python source/pylab/exo_factor.py
 --------------------------------------------------
 
-.. literalinclude:: ../../../../source/pylab/exos/exo_factor.py
+.. literalinclude:: ../../../../source/pylab/exo_factor.py
    :linenos:
 
 
-Le module Python source/pylab/exos/exo_factor.py
+Le module Python source/pylab/exo_factor.py
 -------------------------------------------------
 
-.. literalinclude:: ../../../../source/pylab/exos/exo_factor.py
+.. literalinclude:: ../../../../source/pylab/exo_factor.py
    :linenos:
 
 

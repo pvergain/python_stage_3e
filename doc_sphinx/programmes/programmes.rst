@@ -5,9 +5,9 @@
 
 .. _programmes_python:
 
-==========================
-Programmes Python
-==========================
+=====================================
+Programmes (modules, scripts) Python
+=====================================
 
 .. seealso::
 
