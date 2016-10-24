@@ -21,7 +21,7 @@ Prérequis
 
 Les modules Python 'virtualenv' et virtualenv-wrapper-win sont installés.
 
-Pour les installer:
+Pour les installer::
 
 
     pip install virtualenv
@@ -37,7 +37,6 @@ Les environnements virtuels utilisés
 
 
    sphinx35/sphinx35
-   appli_django/appli_django
 
 
 

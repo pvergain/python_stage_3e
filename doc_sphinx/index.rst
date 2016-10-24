@@ -42,6 +42,10 @@ Stage effectué par Nawel ? et Sofia ? les 13 et 14 octobre 2016 pour une
 initiation au langage Python
 
 
+.. figure:: _static/stagiaires_2016.JPG
+   :align: center
+   
+
 Programmes Python
 =================
 
