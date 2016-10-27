@@ -57,8 +57,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Stage Python scientifique 3e 2016-2017'
-copyright = '2016, Patrick'
-author = 'Patrick'
+copyright = '2016, Anaelle, Sofia et Patrick'
+author = 'Anaelle, Sofia et Patrick'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

@@ -38,8 +38,8 @@ Stage Python scientifique (3e 2016-2017)
 Introduction
 =============
 
-Stage effectué par Nawel ? et Sofia ? les 13 et 14 octobre 2016 pour une 
-initiation au langage Python
+Stage effectué par Anaelle et Sofia les 13 et 14 octobre 2016 pour une 
+initiation au langage Python.
 
 
 .. figure:: _static/stagiaires_2016.JPG
