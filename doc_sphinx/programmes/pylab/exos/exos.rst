@@ -49,13 +49,6 @@ Le module Python source/pylab/exo_factor.py
    :linenos:
 
 
-Le module Python source/pylab/exo_factor.py
--------------------------------------------------
-
-.. literalinclude:: ../../../../source/pylab/exo_factor.py
-   :linenos:
-
-
 
 Avec IPython (CLI, Command Line Interface)
 ===================================================
