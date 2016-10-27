@@ -22,7 +22,7 @@ Stage Python scientifique (3e 2016-2017)
     :Projet: Stage 3e id3 Technologies
     :Release: |release|
     :Date: |today|
-    :Authors: ** ... , **
+    :Authors: Anaelle, Sofia et Patrick
     
     - :ref:`genindex`
     - :ref:`search` 
