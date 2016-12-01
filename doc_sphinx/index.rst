@@ -12,6 +12,7 @@ Stage Python scientifique (3e 2016-2017)
 
 .. seealso::
 
+   - https://python-stage-3e-2016.readthedocs.io/en/latest/
    - https://www.python.org/
    - https://twitter.com/gvanrossum
    - https://docs.python.org/3/
